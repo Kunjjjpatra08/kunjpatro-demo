@@ -1,4 +1,8 @@
 # kunjpatro-demo
 This is my first repository
 <br>
-Author - Kunj Patro(Golu)
+My name is Kunj Patro
+<br>
+I am a BCA student
+<br>
+I am 20 year old
